@@ -4,5 +4,5 @@ It seaches 3 major websites
 Amazon 
 flipkart
 snapdeal
-This can also be implemented using loops but it is a samle one ,This could be a idea for an application,
+This can also be implemented using loops but it is a sample one ,This could be a idea for an application,
 Hope i could do that application...............
